@@ -1,0 +1,12 @@
+{
+  "name": "node-test-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha *Test.js > test-reports.xml"
+  },
+  "dependencies": {
+    "should": "6.0.1"
+  }
+}
