@@ -1,13 +1,13 @@
 
 
   loanAmount || contractAmount is 0 or less than 0
-    ✓ should return -1
+    √ should return -1
 
   loanAmount is greater than contractAmount
-    ✓ should return 1
+    √ should return 1
 
   loanAmount is OK
-    ✓ should return 0
+    √ should return 0
 
 
   3 passing (8ms)
